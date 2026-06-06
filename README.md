@@ -293,6 +293,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Tinybird](https://github.com/tinybirdco/mcp-tinybird)** - Interact with Tinybird serverless ClickHouse platform
 - **[Tldv](https://gitlab.com/tldv/tldv-mcp-server)** - Connect your AI agents to Google-Meet, Zoom & Microsoft Teams through [tl;dv](https://tldv.io)
 - **[Token Metrics](https://github.com/token-metrics/mcp)** - [Token Metrics](https://www.tokenmetrics.com/) integration for fetching real-time crypto market data, trading signals, price predictions, and advanced analytics.
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Trust scoring and x402 micropayment verification for AI agents on Solana. Free: resolve_agent, score_agent, preflight_check, verify_trust_receipt. Paid: get_trust_receipt (HTTP 402 + USDC).
 - **[Trade Agent](https://github.com/Trade-Agent/trade-agent-mcp)** - Execute stock and crypto trades via [Trade Agent](https://thetradeagent.ai/)
 - **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Solana-native x402 MCP server for AI agent trust scoring. 4 free preflight tools score any Solana wallet; pay-per-call `get_trust_receipt` returns a signed `twzrd.receipt.v5` via HTTP 402 + on-chain USDC micropayment. Remote streamable HTTP — zero install.
 - **[TrackMage](https://github.com/trackmage/trackmage-mcp-server)** - Shipment tracking api and logistics management capabilities through the [TrackMage API] (https://trackmage.com/)
