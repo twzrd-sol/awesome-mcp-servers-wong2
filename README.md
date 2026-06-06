@@ -14,17 +14,7 @@
       </a>
     </td>
     <td>
-      <a href="https://get.brightdata.com/mcpservers">Access reliable, real-time or historical web data at scale with Bright Data MCP</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://www.scoutapm.com/mcp?utm_source=mcpservers&utm_medium=marketplace_ads&utm_campaign=local_mcp_launch">
-        <img src="assets/scoutamp.png" width="200" alt="Scoutamp Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://www.scoutapm.com/mcp?utm_source=mcpservers&utm_medium=marketplace_ads&utm_campaign=local_mcp_launch">Put performance and error data directly in the hands of your AI assistant</a>
+      <a href="https://get.brightdata.com/mcpservers">Access reliable, real-time or historical web data at scale with Bright Data MCP. Enjoy 5,000 MCP requests every month - for free</a>
     </td>
   </tr>
   <tr>
@@ -35,6 +25,26 @@
     </td>
     <td>
       <a href="https://mcp.alphavantage.co/">Alpha Vantage MCP Server - Access financial market data: realtime & historical stock, ETF, options, forex, crypto, commodities, fundamentals, technical indicators, & more</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://docs.heyneo.com/neo-mcp">
+        <img src="assets/neo.png" width="200" alt="Neo Logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://docs.heyneo.com/neo-mcp">NEO MCP lets Claude Code, Cursor and VS Code hand off complex AI engineering tasks like AI model evals, AI agent optimization and more to NEO.</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://capafy.ai/?utm_source=mcpservers&utm_medium=referral">
+        <img src="assets/capafy.png" width="200" alt="Capafy Logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://capafy.ai/?utm_source=mcpservers&utm_medium=referral">Capafy - the Skill-based Agent Marketplace. Upload your Skill, run it as a product, and make real money every time someone uses it.</a>
     </td>
   </tr>
 </table>
