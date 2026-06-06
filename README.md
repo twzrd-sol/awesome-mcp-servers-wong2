@@ -297,7 +297,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[TrackMage](https://github.com/trackmage/trackmage-mcp-server)** - Shipment tracking api and logistics management capabilities through the [TrackMage API] (https://trackmage.com/)
 - **[Twilio](https://github.com/twilio-labs/mcp)** - Interact with [Twilio](https://www.twilio.com/en-us) APIs to send messages, manage phone numbers, configure your account, and more.
 - **[Twelve Data](https://github.com/twelvedata/mcp)** - Interact with [Twelve Data](https://twelvedata.com) APIs to access real-time and historical financial market data for your AI agents.
-- **[TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final/tree/main/packages/twzrd-agent-intel)** - Solana-native agent trust scoring via x402 micropayments — free on-chain preflight checks + paid signed V5 trust receipts settled in <1s. Live remote MCP endpoint at [intel.twzrd.xyz/mcp](https://intel.twzrd.xyz/mcp).
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Trust + receipt layer MCP server for AI agents on Solana. Pre-dispatch trust gating, on-chain agent scoring, and signed V5 trust receipts. 4 free tools: `resolve_agent`, `score_agent`, `preflight_check`, `verify_trust_receipt`. 1 paid tool: `get_trust_receipt` via x402 micropayment (<$0.01 USDC). Zero-install: `https://intel.twzrd.xyz/mcp` (Streamable HTTP).
 - **[UnifAI](https://github.com/unifai-network/unifai-mcp-server)** - Dynamically search and call tools using [UnifAI Network](https://unifai.network)
 - **[Unstructured](https://github.com/Unstructured-IO/UNS-MCP)** - Set up and interact with your unstructured data processing workflows in [Unstructured Platform](https://unstructured.io)
 - **[urlDNA](https://github.com/urldna/mcp)** - Dynamically scan and analyze potentially malicious URLs using the [urlDNA](https://urlDNA.io)
@@ -556,7 +556,6 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Trello MCP](https://github.com/kocakli/Trello-Desktop-MCP)** - Trello Desktop MCP server that enables Claude Desktop to interact with Trello boards, cards, lists, and team members through natural language commands.
 - **[Terragrunt-Docs](https://github.com/Excoriate/mcp-terragrunt-docs)** - Terragrunt documentation always up to date.
 - **[Trino MCP Server](https://github.com/tuannvm/mcp-trino)** - A Go implementation of a Model Context Protocol (MCP) server for Trino, enabling LLM models to query distributed SQL databases through standardized tools.
-- **[TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final)** - Solana-native AI agent trust scoring via x402 micropayments — free on-chain preflight checks + paid signed V5 trust receipts settled in <1s.
 - **[Unified Diff MCP Server](https://github.com/gorosun/unified-diff-mcp)** - Beautiful HTML and PNG diff visualization using diff2html, designed for filesystem edit_file dry-run output with high-performance Bun runtime.
 - **[Unity3d Game Engine](https://github.com/CoderGamester/mcp-unity)** - MCP Server to control and interact with Unity3d Game Engine for game development
 - **[User Feedback](https://github.com/mrexodia/user-feedback-mcp)** - Simple MCP Server to enable a human-in-the-loop workflow in tools like Cline and Cursor.
