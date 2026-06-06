@@ -297,6 +297,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[TrackMage](https://github.com/trackmage/trackmage-mcp-server)** - Shipment tracking api and logistics management capabilities through the [TrackMage API] (https://trackmage.com/)
 - **[Twilio](https://github.com/twilio-labs/mcp)** - Interact with [Twilio](https://www.twilio.com/en-us) APIs to send messages, manage phone numbers, configure your account, and more.
 - **[Twelve Data](https://github.com/twelvedata/mcp)** - Interact with [Twelve Data](https://twelvedata.com) APIs to access real-time and historical financial market data for your AI agents.
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Trust scoring for x402 agents on Solana. Free preflight check + paid cryptographically signed trust receipt via USDC micropayment (<1s settlement). Remote Streamable-HTTP at `https://intel.twzrd.xyz/mcp` — no install required.
 - **[UnifAI](https://github.com/unifai-network/unifai-mcp-server)** - Dynamically search and call tools using [UnifAI Network](https://unifai.network)
 - **[Unstructured](https://github.com/Unstructured-IO/UNS-MCP)** - Set up and interact with your unstructured data processing workflows in [Unstructured Platform](https://unstructured.io)
 - **[urlDNA](https://github.com/urldna/mcp)** - Dynamically scan and analyze potentially malicious URLs using the [urlDNA](https://urlDNA.io)
